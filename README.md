@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy estudiante de Ingeniería Informática
 
-<!--
-**UHU12345L/UHU12345L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Laura, estudio en la Universidad de Huelva y estoy comenzando mi camino en la programación, especialmente con **C++**.
 
-Here are some ideas to get you started:
+### 🚀 Aprendiendo:
+- C++ y programación estructurada
+- GitHub
+- Java
+- Estructura de Datos y Algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repositorios destacados
+- [Práctica 1 - Estructura de Datos](https://github.com/UHU12345L/Pr-ctica-1-ED)
+
+### Cómo contactarme
+- Email: lauramatamu@gmail.com o laura.mata@alu.uhu.es
+
+---
+
+ *Este perfil irá creciendo a medida que aprendo más cosas sobre desarrollo y tecnología.*
