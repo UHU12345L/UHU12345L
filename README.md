@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy estudiante de Ingeniería Informática
+# ¡Hola! Soy estudiante de Ingeniería Informática
 
 Me llamo Laura, estudio en la Universidad de Huelva y estoy comenzando mi camino en la programación, especialmente con **C++**.
 
-### 🚀 Aprendiendo:
+### Aprendiendo:
 - C++ y programación estructurada
 - GitHub
 - Java
