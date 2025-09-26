@@ -7,6 +7,7 @@ Me llamo Laura, estudio en la Universidad de Huelva y estoy comenzando mi camino
 - GitHub
 - Java
 - Estructura de Datos y Algoritmos
+- SQL
 
 ### Repositorios destacados
 - [Práctica 1 - Estructura de Datos](https://github.com/UHU12345L/Pr-ctica-1-ED)
