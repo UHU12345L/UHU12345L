@@ -47,8 +47,8 @@ I'm a second-year Computer Science student passionate about programming and cont
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [lauramstamu@gmail.com](mailto:lauramstamu@gmail.com)
-- 📧 University: [laura.mat@alu.uhu.es](mailto:laura.mat@alu.uhu.es)
+- 📧 Email: [lauramatamu@gmail.com](mailto:lauramatamu@gmail.com)
+- 📧 University: [laura.mata@alu.uhu.es](mailto:laura.mata@alu.uhu.es)
 
 ---
 
