@@ -63,10 +63,4 @@ I'm a second-year Computer Science student passionate about programming and cont
 
 ---
 
-### 📊 GitHub Stats
-
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=UHU12345L&show_icons=true&theme=radical)
-
----
-
 *💡 This profile grows as I learn. Check back to see my progress!*
