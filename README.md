@@ -1,20 +1,61 @@
-# ¡Hola! Soy estudiante de Ingeniería Informática
+# Hi there! 👋 I'm Laura
 
-Me llamo Laura, estudio en la Universidad de Huelva y estoy comenzando mi camino en la programación, especialmente con **C++**.
+### 🎓 Computer Science Student | Universidad de Huelva
 
-### Aprendiendo:
-- C++ y programación estructurada
-- GitHub
-- Java
-- Estructura de Datos y Algoritmos
-- SQL
-
-### Repositorios destacados
-- [Práctica 1 - Estructura de Datos](https://github.com/UHU12345L/Pr-ctica-1-ED)
-
-### Cómo contactarme
-- Email: lauramatamu@gmail.com o laura.mata@alu.uhu.es
+I'm a second-year Computer Science student passionate about programming and continuous learning. Currently exploring different areas of software development to find my specialization.
 
 ---
 
- *Este perfil irá creciendo a medida que aprendo más cosas sobre desarrollo y tecnología.*
+### 💻 Tech Stack
+
+**Languages:**
+- C++ (OOP, Data Structures, System Programming)
+- Java (OOP, Database Integration)
+- SQL/PL-SQL (Database Management)
+- Assembly (x86 Architecture)
+
+**Tools & Technologies:**
+- Git & GitHub
+- Oracle SQL Developer
+- Eclipse, Code::Blocks
+- Linux/Unix Systems
+
+**Currently Learning:**
+- Operating Systems Design
+- Computer Architecture
+- Database Systems
+- Network Fundamentals
+
+---
+
+### 🌍 Languages
+
+- 🇬🇧 **English:** C2 (Proficient)
+- 🇨🇳 **Chinese:** A2 (Elementary)
+- 🇪🇸 **Spanish:** Native
+
+---
+
+### 🎯 What I'm Working On
+
+- 📚 Completing coursework in Data Structures, Operating Systems, and Databases
+- 🔨 Building a strong foundation in C++ and Java
+- 🌱 Planning personal projects 
+- 💼 Looking for internship opportunities to apply my skills
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [lauramstamu@gmail.com](mailto:lauramstamu@gmail.com)
+- 📧 University: [laura.mat@alu.uhu.es](mailto:laura.mat@alu.uhu.es)
+
+---
+
+### 📊 GitHub Stats
+
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=UHU12345L&show_icons=true&theme=radical)
+
+---
+
+*💡 This profile grows as I learn. Check back to see my progress!*
