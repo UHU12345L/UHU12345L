@@ -1,5 +1,16 @@
 # Hi there! 👋 I'm Laura
 
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![English C2](https://img.shields.io/badge/English-C2-success?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to_Internships-💼-blue?style=for-the-badge)
+
+</div>
+
+---
+
 ### 🎓 Computer Science Student | Universidad de Huelva
 
 I'm a second-year Computer Science student passionate about programming and continuous learning. Currently exploring different areas of software development to find my specialization.
@@ -40,7 +51,7 @@ I'm a second-year Computer Science student passionate about programming and cont
 
 - 📚 Completing coursework in Data Structures, Operating Systems, and Databases
 - 🔨 Building a strong foundation in C++ and Java
-- 🌱 Planning personal projects 
+- 🌱 Planning personal projects for summer 2025
 - 💼 Looking for internship opportunities to apply my skills
 
 ---
